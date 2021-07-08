@@ -5,7 +5,7 @@ You can watch this video [Advanced Computer Vision with Python - Full Course](ht
 Learn how to:
 * track and detect body pose, 
 * find its point position
-* create the pose estimation module for doing project about hands tracking.
+* create the pose estimation module for doing project about body-pose tracking and positioning.
 
 Check out [Hand tracking](https://github.com/boyleerock/HandTracking)
 
