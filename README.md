@@ -1,4 +1,4 @@
-# Pose_Estimation
+# Pose Estimation
 
 You can watch this video [Advanced Computer Vision with Python - Full Course](https://www.youtube.com/watch?v=01sAkU_NvOY) created by Murtaza Hassan.
 
